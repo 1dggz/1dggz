@@ -2,7 +2,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Meu nome é Douglas Alves, tenho 20 anos e sou natural do Rio de Janeiro.
+Meu nome é Douglas Alves, tenho 22 anos e sou natural do Rio de Janeiro.
 Atualmente, curso o 3º período de Análise e Desenvolvimento de Sistemas na UNICARIOCA. Sou apaixonado por programação e por tudo que envolve o universo da tecnologia. 
 Nos últimos meses, tenho me dedicado ao estudo de Python e ao aperfeiçoamento do meu inglês, enquanto busco uma oportunidade de estágio para desenvolver minhas habilidades técnicas e adquirir experiência prática na área.
 
