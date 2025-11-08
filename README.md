@@ -47,7 +47,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
         style="padding-right: 10px;"
         src="https://github-readme-stats.vercel.app/api?username=1dggz&show_icons=true&theme=github_dark&locale=pt-br" 
     />
-
+    <img
+        align="left"
+        alt="GitHub Stats"
+        height="200"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=1dggz&theme=github_dark&custom_title=Tecnologias" 
+    />
 <p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
