@@ -49,9 +49,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
     />
     <img
         align="left"
-        alt="GitHub Stats"
+        alt="Linguagens mais usadas"
         height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=1dggz&langs_count=6&theme=github_dark&custom_title=Tecnologias&count_private=true&cache_seconds=7200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=1dggz&layout=compact&langs_count=6&theme=github_dark&custom_title=Tecnologias&count_private=true&cache_seconds=7200"
     />
 <p>
 
