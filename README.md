@@ -24,6 +24,7 @@ Nos últimos meses, tenho me dedicado ao estudo de Python e ao aperfeiçoamento 
 </p>
 
 ---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img
@@ -37,6 +38,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 <br/>
 
 ---
+
 ### 📊 Estátisticas
 
 <p>
@@ -54,11 +56,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=1dggz&layout=compact&langs_count=6&theme=github_dark&custom_title=Tecnologias&count_private=true&cache_seconds=7200"
     />
 <p>
-
 <br/><br/><br/><br/><br/><br/><br/><br/>
 
 ---
+
 ### 💡 Curiosidades
  - Sou apaixonado por esportes, principalmente futebol.
  - Gosto muito de ouvir músicas e assistir filmes.
+
+
+
  
