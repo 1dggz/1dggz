@@ -60,9 +60,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 
 ---
 
-### 💡 Curiosidades
- - Sou apaixonado por esportes, principalmente futebol.
- - Gosto muito de ouvir músicas e assistir filmes.
+### 💡 Curiosidades  
+
+<ul>
+  <li>Sou apaixonado por esportes, principalmente futebol.</li>
+  <li>Gosto muito de ouvir músicas e assistir filmes.</li>
+</ul>
+
+<br/>
 
 
 
